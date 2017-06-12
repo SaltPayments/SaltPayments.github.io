@@ -8,12 +8,12 @@ To the best of publicly available information, there is no known method which wi
 
 After importing (http://www.gnupg.org/gph/en/manual.html#AEN84) our PGP key, you can encrypt your files for sending to us by running gpg --encrypt --recipient support@limelightcrm.com FILENAME. This will create FILENAME.gpg.
 
+```
 Key ID: D45B4B2D
 Key type: RSA
 Key size: 4096
 Fingerprint: 9A1F D098 4FD8 24B8 0D7E 7385 9A1C 26B1 D45B 4B2D
 User ID: support@limelightcrm.com
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.5 (GNU/Linux)
 
@@ -43,3 +43,4 @@ Q2GbRHYbFSdeT1nJyyENEAvu/fUy/iPhIef4JdWh9kiexfk03J1O2lxCNoj5DwuQ
 R2j9g7Ti4zLY+Ube2tPimwo1piwdofkkSQv9alLluY69S8bUUcRL
 =/EMv
 -----END PGP PUBLIC KEY BLOCK-----
+```
